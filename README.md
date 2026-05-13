@@ -2,6 +2,8 @@
 
 Build a cleaner chargeback response before the dispute deadline.
 
+Part of the [High Value Agent Skills](https://github.com/oceanfsdfsvfdsvs/codex-high-value-skills) collection.
+
 `chargeback-evidence-pack` is a local-first agent skill for merchants, ecommerce operators, SaaS founders, and payment operations teams that need to assemble dispute evidence without leaking secrets or uploading irrelevant customer data.
 
 ## Use For
