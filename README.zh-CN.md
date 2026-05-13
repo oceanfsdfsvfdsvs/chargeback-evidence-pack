@@ -4,7 +4,7 @@
 
 在争议截止日期前，整理更干净、更有证据支撑的 chargeback response。
 
-本项目是 [High Value Agent Skills](https://github.com/oceanfsdfsvfdsvs/codex-high-value-skills) 集合的一部分。
+本项目是 [实用 Agent Skills](https://github.com/oceanfsdfsvfdsvs/practical-agent-skills) 集合的一部分。
 
 `chargeback-evidence-pack` 是一个本地优先的 agent skill，面向商家、电商运营、SaaS 创始人和支付运营团队。它帮助你整理拒付/争议所需的订单、履约、物流、条款接受和客户沟通证据，同时避免泄漏无关客户数据或敏感日志。
 
